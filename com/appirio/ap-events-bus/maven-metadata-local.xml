@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.appirio</groupId>
+  <artifactId>ap-events-bus</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171005094135</lastUpdated>
+  </versioning>
+</metadata>
