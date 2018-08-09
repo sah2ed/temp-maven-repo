@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 09 12:43:25 WAT 2018
+ldap_sdk_interface-1.0.2.jar>=
+ldap_sdk_interface-1.0.2.pom>=

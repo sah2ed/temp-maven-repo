@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tc-components</groupId>
+  <artifactId>user_project_data_store</artifactId>
+  <versioning>
+    <release>1.1.2</release>
+    <versions>
+      <version>1.1.2</version>
+    </versions>
+    <lastUpdated>20180809114453</lastUpdated>
+  </versioning>
+</metadata>
